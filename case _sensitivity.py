@@ -30,4 +30,10 @@
 # a,b=b,a 
 # print(a)    #  7
 # print(b)    #  5
+
+a=6
+b=8
+a,b=b,a
+print(a)      #  8
+print(b)      #  6
             
